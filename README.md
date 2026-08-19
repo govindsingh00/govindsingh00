@@ -213,6 +213,6 @@ A web application for finding doctors and managing appointments.
 
 ### ⭐ Thanks for visiting my profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=govindsingh00&style=flat-square)
+![Profile Views]98
 
 </div>
